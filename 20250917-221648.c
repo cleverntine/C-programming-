@@ -1,0 +1,22 @@
+//simple c program
+/*
+Name;Cleverntaine mwende
+Reg;CT100/G/26234/25
+Description;To display all units for this semester 
+*/
+
+#include<stdio.h>
+
+// main function
+int main() {
+    printf("all units for this semester;n/");
+    printf("mathematics for science/n");
+    printf("introduction to computer applications/n");
+    printf("analogue electronics/n");
+    printf("fundamental of ICT/n");
+    printf("introduction to programming and problem solving/n");
+    printf("communication skills and literacy/n");
+    printf("essentials of accounting/n");
+    printf("computer systems and organization/n");
+    return 0;
+    }
